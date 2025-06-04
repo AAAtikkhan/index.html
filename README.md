@@ -1,4 +1,3 @@
-# index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,8 +40,8 @@
 
 <div class="section" id="contact">
   <h2>Contact</h2>
-  <p>Email: your@email.com</p>
-  <p>LinkedIn: [Your LinkedIn Profile]</p>
+  <p>Email: abdullahalatik12@gmail.com</p>
+  <p>LinkedIn: www.linkedin.com/in/abdullah-al-atik-khan-5645ab129</p>
 </div>
 
 <footer>
@@ -51,3 +50,6 @@
 
 </body>
 </html>
+
+
+  
